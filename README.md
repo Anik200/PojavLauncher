@@ -110,7 +110,7 @@ Then, run these commands ~~or build using Android Studio~~.
 - Random crashes could happen very often on Android 5.x when loading the game or joining a world.
 - With big modpacks textures could be messed up
 - Probably more, that's why we have a bug tracker ;) 
-
+- Mouse offset issue with phones with notches on android 8.x due to lack of notch detection
 ## License
 - PojavLauncher is licensed under [GNU LGPLv3](https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/LICENSE).
 
